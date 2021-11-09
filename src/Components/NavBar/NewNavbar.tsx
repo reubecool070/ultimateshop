@@ -53,8 +53,6 @@ const nav = [
   { label: "Digital Print" },
 ];
 
-console.log("new");
-
 const NewNavbar = () => {
   return (
     <>
